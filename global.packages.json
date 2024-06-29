@@ -1,0 +1,29 @@
+{
+  "name": "lib",
+  "dependencies": {
+    "@antfu/ni": {
+      "version": "0.21.12",
+      "overridden": false
+    },
+    "@nestjs/cli": {
+      "version": "10.3.2",
+      "overridden": false
+    },
+    "@quasar/cli": {
+      "version": "2.4.1",
+      "overridden": false
+    },
+    "corepack": {
+      "version": "0.28.1",
+      "overridden": false
+    },
+    "firebase-tools": {
+      "version": "13.12.0",
+      "overridden": false
+    },
+    "npm": {
+      "version": "10.8.1",
+      "overridden": false
+    }
+  }
+}

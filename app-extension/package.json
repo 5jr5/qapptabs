@@ -1,0 +1,22 @@
+{
+  "name": "quasar-app-extension-qapptabs",
+  "version": "0.0.1",
+  "description": "Quasar App Tabs",
+  "author": "Jacques Rowe <jacques@5x5.co.za>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/5jr5/qapptabs.git"
+  },
+  "bugs": "https://github.com/5jr5/qapptabs/issues",
+  "homepage": "https://github.com/5jr5/qapptabs",
+  "dependencies": {
+    "quasar-ui-qapptabs": "latest"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  }
+}
